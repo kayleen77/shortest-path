@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "graphs_kgalle34"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Kayleen Gallegos", email="kgalle34@msudenver.edu" },
 ]
 description = "A small example package"
 readme = "README.md"
